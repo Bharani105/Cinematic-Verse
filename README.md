@@ -6,7 +6,7 @@ A sleek and interactive movie discovery web app built with **React.js** and **Ta
 
 ## 🔗 Live Demo
 
-[View Live](https://react-weather-app-seven-alpha.vercel.app/)
+[View Live](https://cinematic-verse.vercel.app/)
 ---
 
 ## 🚀 Features
