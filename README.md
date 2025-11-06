@@ -1,12 +1,33 @@
-# React + Vite
+# 🎬 Cinematic Verse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and interactive movie discovery web app built with **React.js** and **Tailwind CSS**. Powered by the **TMDB (The Movie Database) API**, it lets users explore trending, top-rated, and upcoming films with rich visuals and detailed information.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## Expanding the ESLint configuration
+[View Live](https://react-weather-app-seven-alpha.vercel.app/)
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- 🎥 Explore trending, top-rated, and upcoming movies
+- 🔍 Search for movies by title
+- ❤️ Add and manage favourites (saved in Local Storage)
+- 📱 Fully responsive UI with smooth transitions
+- 🌙 Elegant, modern design using Tailwind CSS
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Tailwind CSS
+- TMDB API
+= Local Storage
+---
+
+## 🙋‍♂️ Author
+
+Made by **[Bharani]**  
+[GitHub](https://github.com/Bharani105) • [LinkedIn](www.linkedin.com/in/p-bharani)
